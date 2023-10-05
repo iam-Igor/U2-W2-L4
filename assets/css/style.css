@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;700&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.bg-hero {
+  background-color: #7550fe;
+}
+
+.chart1 {
+  color: #7550fe;
+}
+
+.btnhero1 {
+  background-color: #1acb98;
+}
+
+.header-text {
+  color: #b7a2ff;
+}
+
+.fontBtn {
+  font-size: 0.8em;
+}
+
+.headingImgs {
+  color: #c18135;
+}
+
+.headingDivImg {
+  background-color: #ffeeda;
+}
+
+.headingtext {
+  line-height: 15px;
+}
+
+.cardP {
+  font-size: 0.9em;
+}
+
+.star {
+  color: #ffa946;
+}
