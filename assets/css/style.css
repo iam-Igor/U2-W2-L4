@@ -52,3 +52,15 @@ body {
   text-align: center;
   width: 42px;
 }
+
+.posabs {
+  left: 32px;
+}
+
+.posabs2 {
+  left: 27% !important;
+}
+
+.card {
+  height: 100%;
+}
