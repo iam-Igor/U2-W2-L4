@@ -16,6 +16,10 @@ body {
   background-color: #1acb98;
 }
 
+.btnhero1:hover {
+  background-color: #1fcb78;
+}
+
 .header-text {
   color: #b7a2ff;
 }
